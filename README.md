@@ -1,8 +1,8 @@
 # Danh mục dự án
 
-Trang tổng hợp các dự án được chọn. Nhấn vào tên dự án để mở repository tương ứng.
+Website tổng hợp trực quan các dự án cá nhân, gồm phần tóm tắt, công nghệ, trạng thái và liên kết đến từng repository.
 
-> Repository này đang ở chế độ **Private**.
+**Website:** [Mở danh mục dự án](https://projecthub-8zrcf7vz.manus.space)
 
 ## Các dự án
 
